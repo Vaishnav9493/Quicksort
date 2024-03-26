@@ -1,1 +1,1 @@
-#Quick sort implemented in C++
+# Quick sort implemented in C++
